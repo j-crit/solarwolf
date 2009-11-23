@@ -1,4 +1,5 @@
 #summary Gameplay and menu images of Solarwolf
+#labels Featured
 
 = Latest Screenshots =
 
